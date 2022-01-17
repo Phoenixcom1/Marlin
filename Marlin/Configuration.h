@@ -558,7 +558,7 @@
 // Above this temperature the heater will be switched off.
 // This can protect components from overheating, but NOT from shorts and failures.
 // (Use MINTEMP for thermistor short/failure protection.)
-#define HEATER_0_MAXTEMP 300 //https://e3d-online.zendesk.com/hc/en-us/articles/4406823770769-Marlin-2-0-Hemera-Guide
+#define HEATER_0_MAXTEMP 285 //https://e3d-online.zendesk.com/hc/en-us/articles/360017204078-Hemera-Direct-V6-Assembly-Guide-Edition-2- or https://e3d-online.zendesk.com/hc/en-us/articles/4406823770769-Marlin-2-0-Hemera-Guide
 #define HEATER_1_MAXTEMP 275
 #define HEATER_2_MAXTEMP 275
 #define HEATER_3_MAXTEMP 275
