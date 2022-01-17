@@ -2796,7 +2796,7 @@
   #endif
 
   #if AXIS_IS_TMC(E0)
-    #define E0_CURRENT      800
+    #define E0_CURRENT      1000 //https://e3d-online.zendesk.com/hc/en-us/articles/4406823770769-Marlin-2-0-Hemera-Guide
     #define E0_MICROSTEPS    16
     #define E0_RSENSE         0.11
     #define E0_CHAIN_POS     -1
